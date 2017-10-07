@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="j2v8_win32_x86_64-4.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/j2v8_win32_x86_64-4.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
